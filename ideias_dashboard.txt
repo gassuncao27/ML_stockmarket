@@ -1,4 +1,36 @@
 Ideias - dashboard fundamentus
 
 . incluir performance pos 10/10/2023 até o dia de hoje 01/12/2023 // individual, ibovespa e small11
-. 
+. algoritmos de clusterizacao: 
+. algoritmo de aprendizado: rede neural (mlp e deep)
+. colocar a mesma data inicial para todos
+
+
+Processamento
+----
+
+1. fazer sem o scale dos features
+2. realizar o scale e verificar a diferença entre eles. 
+3. utilicar
+	3.1 random forest
+	3.2 Q-Means e Hierarchical clustering
+	3.3 Neural net
+4. look to find 04 classes 
+
+
+
+
+Previsao com o random forest = nada
+Separacao em cluster (separar do melhor ao pior)
+	> nao se acha padrao relacionado ao retorno do ativo 
+
+
+O que eu tirei para os proximos dias?
+
+. aumentar o banco de dados com as performances do 3tri
+. normalizar dados
+. manipular features
+. verificar resultados com redes neurais
+
+> pensar em ideias de labels
+> pensar em ideias de features
